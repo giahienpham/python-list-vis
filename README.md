@@ -35,4 +35,5 @@ Use command:
 npm run dev
 ```
 to start the application. The homepage should look like this:
-![Uploading image.png…]()
+![448092578_3317947541842453_4285411123968518358_n](https://github.com/giahienpham/python-list-vis/assets/115850439/a7fd69c0-0bee-4834-9168-43f8ab86a947)
+
